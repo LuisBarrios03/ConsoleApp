@@ -10,7 +10,7 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Ciao Mondo");
+            Console.WriteLine("Codice Visual studio");
         }
     }
 }
